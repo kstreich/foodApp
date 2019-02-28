@@ -18,4 +18,3 @@ export const FETCH_FOOD_DONE = "Fetch Food Done";
 export const ADD_FOOD = "Add Food";
 
 //getting food details from my-food list
-export const;
